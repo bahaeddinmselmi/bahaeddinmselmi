@@ -111,30 +111,23 @@ I design and build **intelligent, automated systems** that are meant to **scale*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-  <!-- Main streak card (this one already works) -->
   <img
     src="https://streak-stats.demolab.com?user=bahaeddinmselmi&theme=tokyonight&hide_border=true"
-    height="180"
+    height="190"
     alt="GitHub streak"
   />
 
-  <br /><br />
-
-  <!-- Lightweight stats using shields.io (very stable) -->
-  <img
-    src="https://img.shields.io/github/stars/bahaeddinmselmi?style=for-the-badge&color=00f7ff&label=Stars"
-    alt="GitHub Stars"
-  />
-  <img
-    src="https://img.shields.io/github/repos/bahaeddinmselmi?style=for-the-badge&color=7f00ff&label=Public%20Repos"
-    alt="Public Repos"
-  />
-
 </div>
+
+<br>
+
+- 🔥 Consistent contribution streaks
+- 🧱 Long‑term projects in AI, automation & security
+- 🚀 Focused on shipping systems, not just experiments
 
 ---
 
