@@ -10,8 +10,7 @@
 
 ---
 
-<img src="[https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/base/wave.svg](https://capsule-render.vercel.app/api?type=wave
-)" width="100%"/>
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/base/wave.svg" width="100%"/>
 
 ## ✨ Royal Creations  
 A showcase of the strongest systems powering the empire.
@@ -144,7 +143,7 @@ I build intelligent, automated systems designed to scale — with precision and 
 
 <p align="center">
   <!-- Contribution streak / activity — improved widget -->
-  <img src="https://streak-stats.demolab.com/?user=bahaeddinmselmi&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahaeddinmselmi&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
