@@ -1,21 +1,12 @@
-# 👑 Baha Eddin Mselmi
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=260&section=header&text=Baha%20Eddin%20Mselmi&fontSize=42&fontAlignY=32&desc=AI%20Engineer%20%7C%20Automation%20Builder%20%7C%20Security%20Focused&descAlignY=55&descAlign=50" alt="Baha Eddin Mselmi Banner" />
+</p>
 
 <div align="center">
 
-  
   <!-- Typing intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Developer+%7C+Builder+%7C+Strategist;AI+%2B+Automation+%3D+Scalable+Systems;Turning+ideas+into+production+systems" alt="Typing SVG" />
-
-
-  <!-- Badges -->
-  <p>
-    <a href="https://github.com/bahaeddinmselmi">
-      <img src="https://komarev.com/ghpvc/?username=bahaeddinmselmi&style=flat-square&color=00f7ff" alt="Profile views" />
-    </a>
-    <a href="https://github.com/bahaeddinmselmi?tab=followers">
-      <img src="https://img.shields.io/github/followers/bahaeddinmselmi?label=Followers&style=flat-square&color=00f7ff" alt="Followers" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Developer+%7C+Builder+%7C+Strategist;AI+%2B+Automation+for+Real-World+Impact;Security-minded+systems+from+idea+to+production" alt="Typing intro" />
 
 </div>
 
@@ -23,38 +14,40 @@
 
 ## 🚀 About Me
 
-I build intelligent, automated systems designed to **scale with precision and purpose**.
+I design and build **intelligent, automated systems** that are meant to **scale**, not just run.
 
-- 🇹🇳 Tunisian developer focused on deep mastery  
-- 🤖 AI, automation & systems engineering  
+- 🧠 AI, automation & systems engineering  
+- 🛡️ Strong security and reliability mindset  
 - 🧱 Builder with strategic focus and relentless execution  
-- 🛡️ Passionate about security, data, and real‑world impact  
+- 🌍 Tunisian developer obsessed with learning & mastery  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
-**Core Languages**
+<!-- Languages / Core -->
+  
+**Languages**
 
-`Python` · `TypeScript` · `JavaScript` · `C++`
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp" />
 
 **Frameworks & Libraries**
 
-`React` · `FastAPI` · `Streamlit`
+<img src="https://skillicons.dev/icons?i=react,fastapi,tailwind,bootstrap" />
 
-**AI / ML**
+**AI / Data**
 
-`PyTorch` · `TensorFlow` · `scikit-learn`
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />  
 
-**Data & Storage**
+**Databases & Infra**
 
-`MongoDB` · `PostgreSQL` · `SQLite`
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,docker,linux" />
 
-**DevOps & Tools**
+**Tools**
 
-`Linux` · `Docker` · `Git` · `VS Code`
+<img src="https://skillicons.dev/icons?i=git,vscode" />
 
 </div>
 
@@ -65,56 +58,56 @@ I build intelligent, automated systems designed to **scale with precision and pu
 ### 🔒 Security & Intelligence
 
 - **[Email-Threat-Intelligence](https://github.com/bahaeddinmselmi/Email-Threat-Intelligence)**  
-  Real‑time browser extension that analyzes emails for phishing and security threats.
+  Real‑time browser extension that detects phishing and email threats directly inside Gmail & Outlook.
 
 - **[IP-Tracker](https://github.com/bahaeddinmselmi/IP-Tracker)**  
-  IP intelligence & lookup tooling for quick investigation.
+  IP intelligence / lookup tool for quick investigation and analysis.
 
 ---
 
 ### 🧠 AI & Data
 
 - **[IBP-AI](https://github.com/bahaeddinmselmi/IBP-AI)**  
-  AI‑powered tooling for intelligent business processes.
+  Intelligent business process automation powered by AI.
 
 - **[reddit-scrape-chat](https://github.com/bahaeddinmselmi/reddit-scrape-chat)**  
-  Scraping + conversational interface over Reddit content.
+  Scraping + conversational layer on top of Reddit content.
 
 - **[Tunai-scrapers](https://github.com/bahaeddinmselmi/Tunai-scrapers)**  
-  Data collection pipelines focused on Tunisian content.
+  Focused scraping pipelines for Tunisian data sources.
 
 ---
 
 ### 🌍 Language Tech
 
 - **[derja-smart-scraper](https://github.com/bahaeddinmselmi/derja-smart-scraper)**  
-  Smart scraping for Tunisian dialect / regional language data.
+  Smart scrapers for Tunisian dialect / regional language datasets.
 
 ---
 
-### 📊 Analytics
+### 📊 Analytics & Data Products
 
 - **[forcastapp](https://github.com/bahaeddinmselmi/forcastapp)**  
-  Forecasting & analytics tooling.
+  Forecasting and analytics application.
 
 - **[product-web-crawler](https://github.com/bahaeddinmselmi/product-web-crawler)**  
-  Product data collection for analysis and monitoring.
+  Product crawling pipeline for monitoring and analysis.
 
 ---
 
 ### 🎨 Web & UX
 
 - **[stellasky](https://github.com/bahaeddinmselmi/stellasky)**  
-  Web experience with strong visual / UX focus.
+  Visually polished web experience with strong UX focus.
 
 - **[roomly](https://github.com/bahaeddinmselmi/roomly)**  
-  Room / space‑focused web project.
+  Room / space‑oriented web application.
 
 - **[graphic_design_portfolio](https://github.com/bahaeddinmselmi/graphic_design_portfolio)**  
-  Graphic design work & experiments.
+  Graphic design work and visual explorations.
 
 - **[portfolio](https://github.com/bahaeddinmselmi/portfolio)**  
-  Personal portfolio site.
+  Personal portfolio site showcasing your work.
 
 ---
 
@@ -124,19 +117,19 @@ I build intelligent, automated systems designed to **scale with precision and pu
 
   <img
     src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=bahaeddinmselmi&theme=tokyonight&show_icons=true&hide_border=true"
-    height="170"
+    height="165"
     alt="GitHub stats"
   />
 
   <img
     src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=bahaeddinmselmi&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    height="165"
     alt="Top languages"
   />
 
   <img
     src="https://streak-stats.demolab.com?user=bahaeddinmselmi&theme=tokyonight&hide_border=true"
-    height="170"
+    height="165"
     alt="GitHub streak"
   />
 
@@ -149,8 +142,8 @@ I build intelligent, automated systems designed to **scale with precision and pu
 - AI systems & ML pipelines  
 - Automation engines & bots  
 - Web scrapers & data collection platforms  
-- Security & threat‑intelligence tools  
-- Developer tools and internal dashboards  
+- Threat‑intelligence & security tooling  
+- Data products & internal dashboards  
 
 ---
 
@@ -168,8 +161,10 @@ I build intelligent, automated systems designed to **scale with precision and pu
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=520&lines=Build+relentlessly.;Ship+what+matters.;Let+the+work+speak+for+itself." alt="Typing SVG footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=520&lines=Ship+systems%2C+not+just+code.;Automate+the+boring.+Secure+the+critical.;Let+the+work+speak+for+itself." alt="Typing footer" />
 
-**⭐ If a repo helped you, consider starring it — it helps a lot.**
+  <br />
+
+  **⭐ If a repo helps you, consider starring it — it keeps the engine running.**
 
 </div>
