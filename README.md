@@ -116,13 +116,13 @@ I design and build **intelligent, automated systems** that are meant to **scale*
 <div align="center">
 
   <img
-    src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=bahaeddinmselmi&theme=tokyonight&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&theme=tokyonight&show_icons=true&hide_border=true"
     height="165"
     alt="GitHub stats"
   />
 
   <img
-    src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=bahaeddinmselmi&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinmselmi&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
     alt="Top languages"
   />
