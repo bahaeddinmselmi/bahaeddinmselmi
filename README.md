@@ -1,172 +1,135 @@
-# 👑 Welcome to the King’s Domain
+# 👑 Baha Eddin Mselmi
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Baha%20Eddin%20Mselmi&fontSize=48&fontColor=ffffff&desc=Developer%20•%20Builder%20•%20Strategist&descSize=20&descAlignY=70" />
-</p>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Developer+%7C+Builder+%7C+Strategist;Discipline+forged+my+code;Vision+built+my+empire;Long+live+the+King+%E2%9A%94%EF%B8%8F)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=2300&color=00F7FF&center=true&vCenter=true&width=800&lines=Discipline+forged+my+code.;Vision+built+my+empire.;Long+live+the+King.⚔️">
-</p>
+</div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/base/wave.svg" width="100%"/>
+## 🚀 About Me
 
-## ✨ Royal Creations  
-A showcase of the strongest systems powering the empire.
-
-<table>
-<tr>
-<th>Project</th>
-<th>Tech Stack</th>
-<th>Status</th>
-<th>Description</th>
-</tr>
-
-<tr>
-<td>🔒 <a href="https://github.com/bahaeddinmselmi/Email-Threat-Intelligence">Email-Threat-Intelligence</a></td>
-<td>JavaScript</td>
-<td>Active</td>
-<td>Real-time phishing & threat detection for Gmail/Outlook — fully client-side.</td>
-</tr>
-
-<tr>
-<td>🧠 <a href="https://github.com/bahaeddinmselmi/IBP-AI">IBP-AI</a></td>
-<td>Python, TypeScript</td>
-<td>Active</td>
-<td>AI-powered Integrated Business Planning for forecasting & supply strategy.</td>
-</tr>
-
-<tr>
-<td>🌍 <a href="https://github.com/bahaeddinmselmi/derja-smart-scraper">derja-smart-scraper</a></td>
-<td>Python</td>
-<td>Active</td>
-<td>CLI tool collecting clean Tunisian Derja text from the open web.</td>
-</tr>
-
-<tr>
-<td>⚙️ <a href="https://github.com/bahaeddinmselmi/Tunai-scrapers">Tunai-scrapers</a></td>
-<td>Python</td>
-<td>Active</td>
-<td>Scrapers for the next Tunisian AI assistant: forums, news, Reddit, and more.</td>
-</tr>
-
-<tr>
-<td>📡 <a href="https://github.com/bahaeddinmselmi/IP-Tracker">IP-Tracker</a></td>
-<td>Python</td>
-<td>Maintained</td>
-<td>IP location, ISP intel, timezone, and map visualization — with Tkinter UI.</td>
-</tr>
-
-<tr>
-<td>🕸️ <a href="https://github.com/bahaeddinmselmi/reddit-scrape-chat">reddit-scrape-chat</a></td>
-<td>Python</td>
-<td>Active</td>
-<td>Scrapes Reddit threads and converts them into structured chat datasets for LLMs.</td>
-</tr>
-
-<tr>
-<td>📊 <a href="https://github.com/bahaeddinmselmi/forcastapp">forcastapp</a></td>
-<td>Python, C++</td>
-<td>Maintained</td>
-<td>Modular IBP engine for demand, supply, inventory, and financial planning.</td>
-</tr>
-
-<tr>
-<td>🛒 <a href="https://github.com/bahaeddinmselmi/product-web-crawler">product-web-crawler</a></td>
-<td>Python</td>
-<td>Active</td>
-<td>Product data scraper with Tkinter UI + CSV export.</td>
-</tr>
-
-<tr>
-<td>🌌 <a href="https://github.com/bahaeddinmselmi/stellasky">stellasky</a></td>
-<td>TypeScript</td>
-<td>In Dev</td>
-<td>Gamified productivity app where tasks form constellations.</td>
-</tr>
-
-<tr>
-<td>🏠 <a href="https://github.com/bahaeddinmselmi/roomly">roomly</a></td>
-<td>TypeScript</td>
-<td>In Dev</td>
-<td>Smart room reservation & collaboration platform.</td>
-</tr>
-
-<tr>
-<td>🎨 <a href="https://github.com/bahaeddinmselmi/graphic_design_portfolio">graphic_design_portfolio</a></td>
-<td>TS, JS, HTML, CSS</td>
-<td>Maintained</td>
-<td>UI/UX-focused design showcase.</td>
-</tr>
-
-<tr>
-<td>🖥️ <a href="https://github.com/bahaeddinmselmi/portfolio">portfolio</a></td>
-<td>TypeScript</td>
-<td>Maintained</td>
-<td>Modern developer portfolio site.</td>
-</tr>
-
-</table>
-
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/base/wave.svg" width="100%"/>
-
----
-
-## ⚡ About Me
 I build intelligent, automated systems designed to scale — with precision and purpose.
 
-- Tunisian developer committed to mastery  
-- AI, automation & systems engineering enthusiast  
-- Builder with strategic focus and relentless execution  
+- 🇹🇳 Tunisian developer committed to mastery
+- 🤖 AI, automation & systems engineering enthusiast
+- 🎯 Builder with strategic focus and relentless execution
 
 ---
 
-## 🧠 Core Skills
+## 🛠️ Tech Arsenal
 
-**Languages:** Python, TypeScript, JavaScript, C++  
-**Frameworks:** React, FastAPI, Streamlit  
-**AI/ML:** PyTorch, TensorFlow, scikit-learn  
-**Databases:** MongoDB, PostgreSQL, SQLite  
-**Tools:** Linux, Docker, Git, VS Code  
-
----
-
-## 🏆 Achievements & Stats
-
-## 🏆 Achievements & Stats
-
-<p align="center">
-  <!-- Profile trophy badges -->
-  <img src="https://github-profile-trophy.vercel.app/?username=bahaeddinmselmi&theme=onestar&margin-w=10&margin-h=10" alt="GitHub Trophy" />
-</p>
-
-<p align="center">
-  <!-- Contribution streak / activity — improved widget -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahaeddinmselmi&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Main stats + languages — with icons and “tokyonight” theme -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&show_icons=true&theme=tokyonight" alt="GitHub Stats Card" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinmselmi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+```text
+Languages     Python • TypeScript • JavaScript • C++
+Frameworks    React • FastAPI • Streamlit
+AI/ML         PyTorch • TensorFlow • scikit-learn
+Databases     MongoDB • PostgreSQL • SQLite
+Tools         Linux • Docker • Git • VS Code
+```
 
 ---
 
-## 🤝 Collaborate With Me
-Open to building AI systems, automation engines, scrapers, dashboards, and high-impact tools.
+## ✨ Featured Projects
+
+### 🔒 Security & Intelligence
+**[Email-Threat-Intelligence](https://github.com/bahaeddinmselmi/Email-Threat-Intelligence)**  
+Real-time phishing & threat detection for Gmail/Outlook — fully client-side  
+`JavaScript` • `Active`
+
+**[IP-Tracker](https://github.com/bahaeddinmselmi/IP-Tracker)**  
+IP location, ISP intel, timezone, and map visualization with Tkinter UI  
+`Python` • `Maintained`
+
+### 🧠 AI & Data Intelligence
+**[IBP-AI](https://github.com/bahaeddinmselmi/IBP-AI)**  
+AI-powered Integrated Business Planning for forecasting & supply strategy  
+`Python` `TypeScript` • `Active`
+
+**[reddit-scrape-chat](https://github.com/bahaeddinmselmi/reddit-scrape-chat)**  
+Scrapes Reddit threads and converts them into structured chat datasets for LLMs  
+`Python` • `Active`
+
+**[Tunai-scrapers](https://github.com/bahaeddinmselmi/Tunai-scrapers)**  
+Scrapers for the next Tunisian AI assistant: forums, news, Reddit, and more  
+`Python` • `Active`
+
+### 🌍 Language & Culture Tech
+**[derja-smart-scraper](https://github.com/bahaeddinmselmi/derja-smart-scraper)**  
+CLI tool collecting clean Tunisian Derja text from the open web  
+`Python` • `Active`
+
+### 📊 Business & Analytics
+**[forcastapp](https://github.com/bahaeddinmselmi/forcastapp)**  
+Modular IBP engine for demand, supply, inventory, and financial planning  
+`Python` `C++` • `Maintained`
+
+**[product-web-crawler](https://github.com/bahaeddinmselmi/product-web-crawler)**  
+Product data scraper with Tkinter UI + CSV export  
+`Python` • `Active`
+
+### 🎨 Web & UX
+**[stellasky](https://github.com/bahaeddinmselmi/stellasky)**  
+Gamified productivity app where tasks form constellations  
+`TypeScript` • `In Development`
+
+**[roomly](https://github.com/bahaeddinmselmi/roomly)**  
+Smart room reservation & collaboration platform  
+`TypeScript` • `In Development`
+
+**[graphic_design_portfolio](https://github.com/bahaeddinmselmi/graphic_design_portfolio)**  
+UI/UX-focused design showcase  
+`TypeScript` `JavaScript` `HTML` `CSS` • `Maintained`
+
+**[portfolio](https://github.com/bahaeddinmselmi/portfolio)**  
+Modern developer portfolio site  
+`TypeScript` • `Maintained`
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats
 
-[![GitHub](https://img.shields.io/badge/GitHub-bahaeddinmselmi-181717?style=for-the-badge&logo=github)](https://github.com/bahaeddinmselmi)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BahaEddinMselmi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baha-eddin-mselmi-18a74b345)  
-[![Email](https://img.shields.io/badge/Email-bahaeddinmselmi484@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bahaeddin.ms@gmail.com)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinmselmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bahaeddinmselmi&theme=tokyonight&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=bahaeddinmselmi&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2600&color=FFD700&center=true&vCenter=true&width=700&lines=Long+live+the+grind.;Long+live+the+code.;Long+live+the+King.⚔️">
-</p>
+## 🤝 Let's Collaborate
+
+Open to building:
+- 🤖 AI systems & machine learning pipelines
+- ⚙️ Automation engines & workflow tools
+- 🕸️ Web scrapers & data collection systems
+- 📊 Analytics dashboards & business intelligence tools
+- 🚀 High-impact developer tools
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-bahaeddinmselmi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahaeddinmselmi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BahaEddinMselmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baha-eddin-mselmi-18a74b345)
+[![Email](https://img.shields.io/badge/Email-bahaeddinmselmi484@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahaeddinmselmi484@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Long+live+the+grind;Long+live+the+code;Long+live+the+King+%E2%9A%94%EF%B8%8F)
+
+**⭐ Star my repos if you find them useful!**
+
+</div>
