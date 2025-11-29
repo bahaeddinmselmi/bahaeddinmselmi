@@ -135,18 +135,22 @@ I build intelligent, automated systems designed to scale — with precision and 
 
 ## 🏆 Achievements & Stats
 
+## 🏆 Achievements & Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bahaeddinmselmi&theme=onestar&margin-w=10&margin-h=10" />
+  <!-- Profile trophy badges -->
+  <img src="https://github-profile-trophy.vercel.app/?username=bahaeddinmselmi&theme=onestar&margin-w=10&margin-h=10" alt="GitHub Trophy" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=bahaeddinmselmi&theme=tokyonight](https://streak-stats.demolab.com/?user=bahaeddinmselmi&theme=tokyonight
-)" />
+  <!-- Contribution streak / activity — improved widget -->
+  <img src="https://streak-stats.demolab.com/?user=bahaeddinmselmi&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinmselmi&layout=compact&theme=tokyonight" />
+  <!-- Main stats + languages — with icons and “tokyonight” theme -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&show_icons=true&theme=tokyonight" alt="GitHub Stats Card" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinmselmi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
