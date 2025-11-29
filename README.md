@@ -10,7 +10,8 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/base/wave.svg" width="100%"/>
+<img src="[https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/base/wave.svg](https://capsule-render.vercel.app/api?type=wave
+)" width="100%"/>
 
 ## ✨ Royal Creations  
 A showcase of the strongest systems powering the empire.
