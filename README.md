@@ -140,7 +140,8 @@ I build intelligent, automated systems designed to scale — with precision and 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahaeddinmselmi&theme=tokyonight" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=bahaeddinmselmi&theme=tokyonight](https://streak-stats.demolab.com/?user=bahaeddinmselmi&theme=tokyonight
+)" />
 </p>
 
 <p align="center">
