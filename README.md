@@ -115,11 +115,7 @@ I design and build **intelligent, automated systems** that are meant to **scale*
 
 <div align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=bahaeddinmselmi&theme=tokyonight&hide_border=true"
-    height="190"
-    alt="GitHub streak"
-  />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
