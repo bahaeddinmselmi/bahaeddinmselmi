@@ -115,7 +115,7 @@ I design and build **intelligent, automated systems** that are meant to **scale*
 
 <div align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi)](https://github.com/bahaeddinmselmi/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&hide=contribs,prs)
 
 </div>
 
