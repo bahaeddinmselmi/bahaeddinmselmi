@@ -111,19 +111,20 @@ I design and build **intelligent, automated systems** that are meant to **scale*
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&hide=contribs,prs)
-
-</div>
-
-<br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bahaeddinmselmi&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinmselmi&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 - 🔥 Consistent contribution streaks
 - 🧱 Long‑term projects in AI, automation & security
 - 🚀 Focused on shipping systems, not just experiments
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bahaeddinmselmi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
