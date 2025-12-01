@@ -118,8 +118,6 @@ I design and build **intelligent, automated systems** that are meant to **scale*
 ![](https://nirzak-streak-stats.vercel.app/?user=bahaeddinmselmi&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinmselmi&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
 </div>
 
 - 🔥 Consistent contribution streaks
@@ -136,8 +134,6 @@ I design and build **intelligent, automated systems** that are meant to **scale*
   
 ### ✍️ Random Dev Quote
 <div align="center">
-
----
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
