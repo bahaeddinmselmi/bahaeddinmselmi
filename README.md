@@ -121,11 +121,13 @@ I design and build **intelligent, automated systems** that are meant to **scale*
 - 🚀 Focused on shipping systems, not just experiments
 
 ## 🏆 GitHub Trophies
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=bahaeddinmselmi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+</div>
 ### ✍️ Random Dev Quote
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div>
 ---
 
 ## 🤝 What I Like to Build
