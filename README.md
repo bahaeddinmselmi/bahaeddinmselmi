@@ -3,110 +3,128 @@
 </p>
 
 <p align="center">
-  <b>Building scalable backend systems, AI automation pipelines, and production-grade infrastructure.</b>
+  <b>Engineering production-grade backend systems and AI automation that scale in real-world environments.</b>
+</p>
+
+<p align="center">
+  Co-founding Zaynah AI • Backend scalability • AI automation • NLP for low-resource languages
 </p>
 
 ---
 
 ## 🧠 About
 
-Software Engineer focused on **backend systems, AI automation, and scalable infrastructure**.
+I’m a **Software Engineer** specializing in **backend systems, AI automation, and scalable infrastructure**.
 
-I build **production-ready software** — APIs, automation pipelines, and data-driven systems — designed to perform under **real-world constraints** like reliability, security, and concurrency.
+I design and build **production-ready software** — APIs, automation pipelines, and data-driven systems — built to handle **real-world constraints** such as reliability, performance, and concurrency.
 
----
+Currently **co-founding Zaynah AI**, where I’m building AI automation infrastructure for WhatsApp-based e-commerce, including **NLP workflows for Tunisian Darja** and high-throughput backend services.
 
-## 🚀 Current Work
-
-**Co-Founder & Software Engineer — Zaynah AI**  
-Building AI-driven automation for **WhatsApp-based e-commerce**, focusing on backend architecture, NLP workflows (Tunisian Darja), and production reliability.
+**Philosophy:** Ship systems. Build reliability. Let execution speak.
 
 ---
 
-## 🔧 Core Focus
+## 📈 Impact
 
-- Backend & API development  
-- AI automation & NLP pipelines  
-- Scalable system architecture  
-- Data scraping & processing systems  
-- Security-aware engineering  
+- High-volume message processing pipelines (10K+ messages/day range)
+- 50+ data sources integrated across scraping systems
+- High-accuracy ML models for threat detection in controlled environments
+- Multiple production systems actively maintained
+- Applied NLP for low-resource language (Tunisian dialect)
 
 ---
 
-## 🏗️ Selected Projects
+## 🏗️ Featured Projects
 
-### ⚙️ Backend & Automation Systems
-- **IBP-AI** — AI-powered business process automation  
-- **product-web-crawler** — Scalable crawling & monitoring pipeline  
+### 🤖 Zaynah AI Platform — *In Production*
+`FastAPI` `PostgreSQL` `Redis` `Docker` `NLP`
 
-### 🧠 AI / NLP & Data Pipelines
-- **derja-smart-scraper** — Tunisian Darja dataset pipeline  
-- **reddit-scrape-chat** — Conversational layer over scraped content  
-- **Tunai-scrapers** — Regional scraping pipelines  
+- Backend architecture for WhatsApp-based e-commerce automation  
+- Custom NLP pipeline for Tunisian Darja  
+- Real-time order processing and inventory sync  
+- Multi-tenant, role-based system design  
 
-### 🔐 Security & Intelligence
-- **Email-Threat-Intelligence** — Phishing detection in Gmail & Outlook  
-- **IP-Tracker** — Lightweight IP investigation tool  
+---
+
+### 🕷️ Product Web Crawler — *Maintained*
+`Python` `MongoDB` `Redis` `Scrapy`
+
+- Distributed crawling & monitoring infrastructure  
+- Intelligent rate limiting and data normalization  
+- Real-time alerts and anomaly detection  
+
+---
+
+### 🗣️ Derja Smart Scraper — *Research / Dataset*
+`Python` `NLP` `Data Pipelines`
+
+- Automated collection of Tunisian dialect text  
+- Preprocessing, normalization, and deduplication  
+- Built for low-resource NLP research  
+
+---
+
+### 🔐 Email Threat Intelligence — *Demo / Research*
+`Python` `Machine Learning`
+
+- Phishing and threat detection for Gmail & Outlook  
+- Header, content, and sender reputation analysis  
+
+---
+
+### 🤖 IBP-AI — *Development*
+`Python` `FastAPI` `LLM Integration`
+
+- AI-driven business process automation  
+- Event-driven workflows and document processing  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+**Languages**  
+Python • TypeScript • JavaScript • C++
 
-### Languages  
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp" />
+**Backend & Infrastructure**  
+FastAPI • Node.js • PostgreSQL • MongoDB • Redis • Docker • Linux • REST APIs • WebSockets
 
-### Backend & Systems  
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,docker,linux" />
+**AI / Data**  
+TensorFlow • PyTorch • NLP • LLM Workflows • Vector Databases
 
-### AI / Data  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-### Tooling  
-<img src="https://skillicons.dev/icons?i=git,vscode" />
-
-</p>
+**Automation & Scraping**  
+Scrapy • BeautifulSoup • Selenium • Data Pipelines
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 Current Focus & Collaboration
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&show_icons=true&theme=react&hide_border=true" />
-</p>
+- Scaling backend & AI automation at Zaynah AI  
+- Event-driven and distributed system design  
+- NLP for low-resource languages  
+- Security-aware backend architectures  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahaeddinmselmi&theme=react&hide_border=true" />
-</p>
-
----
-
-## 🤝 Collaboration Interests
-
-- Backend & distributed systems  
-- AI-driven automation platforms  
-- NLP & data pipelines  
-- Security-aware infrastructure  
+Open to collaboration on **backend systems, AI automation platforms, NLP pipelines, and open-source tools**.
 
 ---
 
-## 📬 Contact
+## 🌍 Languages
+
+Arabic (Native – Tunisian Dialect) • French (Fluent) • English (Fluent)
+
+---
+
+## 📬 Connect
 
 <p align="center">
-
-<a href="https://github.com/bahaeddinmselmi">
-  <img src="https://img.shields.io/badge/GitHub-bahaeddinmselmi-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/baha-eddin-mselmi">
-  <img src="https://img.shields.io/badge/LinkedIn-Baha%20Eddin%20Mselmi-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:bahaeddinmselmi484@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-
+  <a href="https://github.com/bahaeddinmselmi">
+    <img src="https://img.shields.io/badge/GitHub-bahaeddinmselmi-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/baha-eddin-mselmi">
+    <img src="https://img.shields.io/badge/LinkedIn-Baha%20Eddin%20Mselmi-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:bahaeddinmselmi484@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
