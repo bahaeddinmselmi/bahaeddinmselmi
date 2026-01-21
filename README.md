@@ -1,14 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=220&section=header&text=Baha%20Eddin%20Mselmi&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Automation&descAlignY=60" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,100:203A43&text=Baha%20Eddin%20Mselmi&fontSize=38&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Automation&descAlignY=65"
+    alt="Baha Eddin Mselmi Header"
+  />
 </p>
 
+<br/>
+
 <p align="center">
-  <b>Engineering production-grade backend systems and AI automation that scale in real-world environments.</b>
+  <strong>
+    Engineering production-grade backend systems and AI automation that scale in real-world environments.
+  </strong>
 </p>
 
 <p align="center">
   Co-founding Zaynah AI • Backend scalability • AI automation • NLP for low-resource languages
 </p>
+
+<hr/>
 
 ---
 
