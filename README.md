@@ -1,122 +1,116 @@
-<!-- ================= HEADER ================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,100:1F3C88&height=260&section=header&text=Baha%20Eddin%20Mselmi&fontSize=44&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Systems%20Builder&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=220&section=header&text=Baha%20Eddin%20Mselmi&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Automation&descAlignY=60" />
 </p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Backend+Systems+Engineer;AI+%26+Automation+Builder;Production-Ready+Systems;Scalable+Architecture+%7C+Real-World+Constraints" />
-
-</div>
+<p align="center">
+  <b>Building scalable backend systems, AI automation pipelines, and production-grade infrastructure.</b>
+</p>
 
 ---
 
-## 👤 Profile
+## 🧠 About
 
-**Software Engineer** focused on **backend systems, AI automation, and scalable infrastructure**.
+Software Engineer focused on **backend systems, AI automation, and scalable infrastructure**.
 
-I build **production-grade software** — APIs, automation pipelines, and data-driven systems — designed for **real-world constraints**: reliability, security, and concurrency.
+I build **production-ready software** — APIs, automation pipelines, and data-driven systems — designed to perform under **real-world constraints** like reliability, security, and concurrency.
 
 ---
 
 ## 🚀 Current Work
 
-- **Co-Founder & Software Engineer — Zaynah AI**  
-  Building AI-driven automation systems for WhatsApp-based e-commerce, focusing on:
-  - Backend architecture  
-  - NLP workflows (Tunisian Darja)  
-  - Production reliability  
-  - Scalable system design  
+**Co-Founder & Software Engineer — Zaynah AI**  
+Building AI-driven automation for **WhatsApp-based e-commerce**, focusing on backend architecture, NLP workflows (Tunisian Darja), and production reliability.
 
 ---
 
-## 🧠 Core Focus
+## 🔧 Core Focus
 
-- Backend & API engineering  
+- Backend & API development  
 - AI automation & NLP pipelines  
 - Scalable system architecture  
-- Data collection & processing systems  
+- Data scraping & processing systems  
 - Security-aware engineering  
 
 ---
 
-## 🏗️ Selected Systems
+## 🏗️ Selected Projects
 
-### 🔹 Backend & Automation
-- **IBP-AI** — Intelligent business process automation engine  
-- **product-web-crawler** — Scalable product crawling & monitoring pipeline  
+### ⚙️ Backend & Automation Systems
+- **IBP-AI** — AI-powered business process automation  
+- **product-web-crawler** — Scalable crawling & monitoring pipeline  
 
----
+### 🧠 AI / NLP & Data Pipelines
+- **derja-smart-scraper** — Tunisian Darja dataset pipeline  
+- **reddit-scrape-chat** — Conversational layer over scraped content  
+- **Tunai-scrapers** — Regional scraping pipelines  
 
-### 🔹 AI / NLP & Data
-- **derja-smart-scraper** — NLP-ready datasets for Tunisian dialect  
-- **reddit-scrape-chat** — Data scraping + conversational interface  
-- **Tunai-scrapers** — Regional data collection pipelines  
-
----
-
-### 🔹 Security & Intelligence
-- **Email-Threat-Intelligence** — Phishing & threat detection extension  
-- **IP-Tracker** — IP intelligence & investigation tool  
+### 🔐 Security & Intelligence
+- **Email-Threat-Intelligence** — Phishing detection in Gmail & Outlook  
+- **IP-Tracker** — Lightweight IP investigation tool  
 
 ---
 
-## 🧰 Technical Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-**Languages**  
+### Languages  
 <img src="https://skillicons.dev/icons?i=python,ts,js,cpp" />
 
-**Backend & Systems**  
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,docker,linux" />
+### Backend & Systems  
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,docker,linux" />
 
-**AI / Data**  
+### AI / Data  
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### Tooling  
+<img src="https://skillicons.dev/icons?i=git,vscode" />
 
-</div>
-
----
-
-## 📊 Engineering Activity
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=bahaeddinmselmi&theme=tokyonight&hide_border=true)
-
-</div>
+</p>
 
 ---
 
-## 🤝 Collaboration
+## 📊 GitHub Activity
 
-Interested in:
-- Backend & AI-driven products  
-- Automation platforms  
-- Data-intensive systems  
-- Security-aware engineering challenges  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&show_icons=true&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahaeddinmselmi&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Collaboration Interests
+
+- Backend & distributed systems  
+- AI-driven automation platforms  
+- NLP & data pipelines  
+- Security-aware infrastructure  
 
 ---
 
 ## 📬 Contact
 
-<div align="center">
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-bahaeddinmselmi-0A0F2C?style=for-the-badge&logo=github)](https://github.com/bahaeddinmselmi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BahaEddinMselmi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baha-eddin-mselmi)
-[![Email](https://img.shields.io/badge/Email-bahaeddinmselmi484@gmail.com-1F3C88?style=for-the-badge&logo=gmail)](mailto:bahaeddinmselmi484@gmail.com)
+<a href="https://github.com/bahaeddinmselmi">
+  <img src="https://img.shields.io/badge/GitHub-bahaeddinmselmi-181717?style=for-the-badge&logo=github" />
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/baha-eddin-mselmi">
+  <img src="https://img.shields.io/badge/LinkedIn-Baha%20Eddin%20Mselmi-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:bahaeddinmselmi484@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=520&lines=Ship+systems,+not+slides.;Automate+the+boring.;Build+what+scales.;Let+execution+speak." />
-
-</div>
+<p align="center">
+  <b>Ship systems. Build reliability. Let execution speak.</b>
+</p>
