@@ -5,8 +5,6 @@
   />
 </p>
 
-<br/>
-
 <p align="center">
   <strong>
     Engineering production-grade backend systems and AI automation that scale in real-world environments.
