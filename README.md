@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,100:203A43&text=Baha%20Eddin%20Mselmi&fontSize=38&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Automation&descAlignY=65"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:0F2027,100:203A43&amp;text=Baha%20Eddin%20Mselmi&amp;fontSize=38&amp;fontAlignY=40&amp;desc=Software%20Engineer%20%7C%20Backend%20%26amp%3B%20AI%20Automation&amp;descAlignY=65"
     alt="Baha Eddin Mselmi Header"
   />
 </p>
+p>
 
 <p align="center">
   <strong>
