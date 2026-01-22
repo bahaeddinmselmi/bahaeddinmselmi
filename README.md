@@ -4,7 +4,6 @@
     alt="Baha Eddin Mselmi Header"
   />
 </p>
-p>
 
 <p align="center">
   <strong>
