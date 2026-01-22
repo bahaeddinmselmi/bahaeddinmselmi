@@ -1,135 +1,102 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:0F2027,50:203A43,100:2C5364&amp;text=Baha%20Eddin%20Mselmi&amp;fontSize=44&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Backend%20%26amp%3B%20AI%20Automation&amp;descAlignY=64&amp;animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Baha%20Eddin%20Mselmi&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Automation&descAlignY=64"
     alt="Baha Eddin Mselmi Header"
   />
 </p>
 
 <p align="center">
-  <b>Building production-grade backend systems and AI automation that scale under real-world pressure.</b>
+  <strong>Engineering production-grade backend systems and AI automation that scale under real-world pressure.</strong>
 </p>
 
 <p align="center">
-  Co-founder @ <b>Zaynah AI</b> • Backend Architecture • AI Automation • NLP (Tunisian Darja)
-</p>
-
-<p align="center">
-  <a href="https://github.com/bahaeddinmselmi">
-    <img src="https://img.shields.io/badge/GitHub-bahaeddinmselmi-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/baha-eddin-mselmi">
-    <img src="https://img.shields.io/badge/LinkedIn-Baha%20Eddin%20Mselmi-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:bahaeddinmselmi484@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bahaeddinmselmi484%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  Co-Founder @ <strong>Zaynah AI</strong> • Backend Architecture • AI Automation • NLP (Tunisian Darja)
 </p>
 
 ---
 
-## About
+## 🧠 About
 
 I’m a **Software Engineer** focused on **backend systems, scalable infrastructure, and AI automation**.
 
 I build software that survives reality:
-- high throughput
-- messy inputs
-- concurrency
-- reliability constraints
-- production monitoring
+- high throughput and concurrency  
+- messy, real-world inputs  
+- reliability and observability constraints  
 
-Currently co-founding **Zaynah AI**, building automation for WhatsApp-based e-commerce with **Tunisian Darja NLP** and backend systems designed for scale.
+At **Zaynah AI**, I build backend automation for WhatsApp-based e-commerce, including **NLP workflows for Tunisian Darja** and systems designed to scale in production.
 
 **Operating principle:** execution > noise.
 
 ---
 
-## What I’m good at
+## 🏗️ Featured Projects
 
-- Designing scalable APIs and backend services (**FastAPI / Node.js**)
-- Event-driven processing, queues, caching (**Redis**, async workers)
-- Data pipelines, scraping, normalization (**Scrapy**, automation)
-- AI automation workflows and LLM integrations
-- Low-resource NLP workflows (Tunisian dialect)
-
----
-
-## Impact (selected)
-
-- Built high-throughput message processing flows (multi-tenant capable)
-- Integrated dozens of data sources across crawling + enrichment pipelines
-- Designed production systems with reliability + observability in mind
-- NLP pipelines for low-resource language data preparation
-
----
-
-## Featured Projects
-
-### Zaynah AI Platform — In Production
+### 🤖 Zaynah AI Platform — *In Production*
 **FastAPI • PostgreSQL • Redis • Docker • NLP**
 
-- WhatsApp-based e-commerce automation backend
-- Order confirmation, verification flows, inventory sync patterns
-- Multi-tenant architecture + role-based access design
-- Tuned NLP workflows for Tunisian Darja use cases
+- Backend automation for WhatsApp-based e-commerce  
+- Order confirmation, verification flows, inventory sync patterns  
+- Multi-tenant architecture with role-based access  
+- Production-focused reliability and performance design  
 
 ---
 
-### Product Web Crawler — Maintained
+### 🕷️ Product Web Crawler — *Maintained*
 **Python • Scrapy • MongoDB • Redis**
 
-- Distributed crawling with monitoring + alerting patterns
-- Rate limiting, scheduling, data normalization
-- Reliability-first scraping (retries, backoff, anomaly detection)
+- Distributed crawling and monitoring infrastructure  
+- Intelligent rate limiting, retries, and data normalization  
+- Reliability-first scraping patterns  
 
 ---
 
-### Derja Smart Scraper — Research / Dataset
-**Python • Data Pipelines • NLP**
+### 🗣️ Derja Smart Scraper — *Research / Dataset*
+**Python • NLP • Data Pipelines**
 
-- Automated collection of Tunisian dialect text
-- Cleaning, deduplication, normalization for training-ready corpora
-- Built to support low-resource NLP experimentation
-
----
-
-### Email Threat Intelligence — Demo / Research
-**Python • ML**
-
-- Threat detection logic for email signals
-- Header + content analysis patterns
-- Useful for security-focused ML prototyping
+- Automated collection of Tunisian dialect text  
+- Cleaning, deduplication, and normalization for training-ready corpora  
+- Built to support low-resource NLP experimentation  
 
 ---
 
-### IBP-AI — Development
+### 🔐 Email Threat Intelligence — *Demo / Research*
+**Python • Machine Learning**
+
+- Threat detection logic for email signals  
+- Header and content analysis pipelines  
+- Security-focused ML prototyping  
+
+---
+
+### 🤖 IBP-AI — *Development*
 **FastAPI • LLM Integration**
 
-- AI-driven business process automation
-- Event-driven workflows + document handling pipelines
+- AI-driven business process automation  
+- Event-driven workflows and document handling pipelines  
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**  
 Python • TypeScript • JavaScript • C++
 
-**Backend & Infra**  
-FastAPI • Node.js • PostgreSQL • MongoDB • Redis • Docker • Linux • REST • WebSockets
+**Backend & Infrastructure**  
+FastAPI • Node.js • PostgreSQL • MongoDB • Redis • Docker • Linux • REST APIs • WebSockets
 
 **AI / Data**  
-PyTorch • TensorFlow • NLP • LLM Workflows • Vector Databases
+TensorFlow • PyTorch • NLP • LLM Workflows • Vector Databases
 
 **Automation**  
 Scrapy • BeautifulSoup • Selenium • Data Pipelines
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-- Scaling backend + AI automation at **Zaynah AI**
-- Event-driven systems, distributed patterns, reliability engineering
+- Scaling backend and AI automation at **Zaynah AI**
+- Event-driven and distributed system design
 - NLP workflows for low-resource languages
 - Security-aware backend architecture
 
@@ -137,12 +104,12 @@ Open to collaboration on **backend systems, AI automation platforms, NLP pipelin
 
 ---
 
-## Languages
+## 🌍 Languages
 
 Arabic (Native – Tunisian Dialect) • French (Fluent) • English (Fluent)
 
 ---
 
 <p align="center">
-  <b>Ship systems. Build reliability. Let execution speak.</b>
+  <strong>Ship systems. Build reliability. Let execution speak.</strong>
 </p>
