@@ -1,9 +1,4 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Baha%20Eddin%20Mselmi&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Automation&descAlignY=64"
-    alt="Baha Eddin Mselmi Header"
-  />
-</p>
+![Baha Eddin Mselmi Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Baha%20Eddin%20Mselmi&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20and%20AI%20Automation&descAlignY=64)
 
 <p align="center">
   <strong>Engineering production-grade backend systems and AI automation that scale under real-world pressure.</strong>
