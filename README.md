@@ -1,101 +1,102 @@
-![Baha Eddin Mselmi Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Baha%20Eddin%20Mselmi&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20and%20AI%20Automation&descAlignY=64)
+![Baha Eddin Mselmi Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A0A0F,50:0A2A1A,100:003820&text=Baha%20Eddin%20Mselmi&fontSize=42&fontAlignY=38&desc=Founder%20%7C%20AI%20Infrastructure%20for%20EMEA&descAlignY=64)
+
+
 
 <p align="center">
-  <strong>Engineering production-grade backend systems and AI automation that scale under real-world pressure.</strong>
+  <strong>Building AI infrastructure for EMEA data sovereignty.</strong>
 </p>
 
 <p align="center">
-  Co-Founder @ <strong>Zaynah AI</strong> • Backend Architecture • AI Automation • NLP (Tunisian Darja)
+  Founder @ <strong>Recouvr AI</strong> • 
+  Co-Founder @ <strong>Zaynah AI</strong> • 
+  Creator of <strong>SovereignGuard</strong> • 
+  Tunisia 🇹🇳
 </p>
 
 ---
 
-## 🧠 About
+## 🛡️ SovereignGuard — Open Source
+**Python • FastAPI • Microsoft Presidio • Docker**
 
-I’m a **Software Engineer** focused on **backend systems, scalable infrastructure, and AI automation**.
+Open source AI privacy gateway for GDPR-compliant 
+LLM adoption in EMEA.
 
-I build software that survives reality:
-- high throughput and concurrency  
-- messy, real-world inputs  
-- reliability and observability constraints  
+Strips PII before it leaves your server.
+Restores everything locally after the response.
+Zero data reaches foreign infrastructure.
+One line to integrate.
 
-At **Zaynah AI**, I build backend automation for WhatsApp-based e-commerce, including **NLP workflows for Tunisian Darja** and systems designed to scale in production.
+→ **[github.com/bahaeddinmselmi/sovereignguard](https://github.com/bahaeddinmselmi/sovereignguard)**
 
-**Operating principle:** execution > noise.
+Tunisia 🇹🇳 • Morocco 🇲🇦 • France 🇫🇷 recognizers
+79 tests passing • Docker ready • BSL 1.1
 
 ---
 
-## 🏗️ Featured Projects
+## ⚡ Recouvr AI — In Development
+**Next.js • Supabase • Claude API**
 
-### 🤖 Zaynah AI Platform — *In Production*
+B2B collections and client relationship automation
+for EMEA SMEs. GDPR compliant by architecture.
+
+→ **[recouvr.dev](https://recouvr.dev)**
+
+---
+
+## 🤖 Zaynah AI — In Production
 **FastAPI • PostgreSQL • Redis • Docker • NLP**
 
-- Backend automation for WhatsApp-based e-commerce  
-- Order confirmation, verification flows, inventory sync patterns  
-- Multi-tenant architecture with role-based access  
-- Production-focused reliability and performance design  
+WhatsApp-based e-commerce automation for MENA.
+NLP workflows for Tunisian Darja.
+Multi-tenant architecture built for production scale.
 
 ---
 
-### 🕷️ Product Web Crawler — *Maintained*
+## 🏗️ Other Projects
+
+### 🕷️ Product Web Crawler — Maintained
 **Python • Scrapy • MongoDB • Redis**
+Distributed crawling and monitoring infrastructure.
 
-- Distributed crawling and monitoring infrastructure  
-- Intelligent rate limiting, retries, and data normalization  
-- Reliability-first scraping patterns  
-
----
-
-### 🗣️ Derja Smart Scraper — *Research / Dataset*
+### 🗣️ Derja Smart Scraper — Research
 **Python • NLP • Data Pipelines**
+Automated Tunisian dialect text collection for 
+training-ready NLP corpora.
 
-- Automated collection of Tunisian dialect text  
-- Cleaning, deduplication, and normalization for training-ready corpora  
-- Built to support low-resource NLP experimentation  
-
----
-
-### 🔐 Email Threat Intelligence — *Demo / Research*
+### 🔐 Email Threat Intelligence — Research
 **Python • Machine Learning**
+Threat detection logic for email signals.
 
-- Threat detection logic for email signals  
-- Header and content analysis pipelines  
-- Security-focused ML prototyping  
-
----
-
-### 🤖 IBP-AI — *Development*
+### 🤖 IBP-AI — Development
 **FastAPI • LLM Integration**
-
-- AI-driven business process automation  
-- Event-driven workflows and document handling pipelines  
+AI-driven business process automation.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
+**Languages**
 Python • TypeScript • JavaScript • C++
 
-**Backend & Infrastructure**  
-FastAPI • Node.js • PostgreSQL • MongoDB • Redis • Docker • Linux • REST APIs • WebSockets
+**Backend & Infrastructure**
+FastAPI • Node.js • PostgreSQL • MongoDB • 
+Redis • Docker • Linux • REST APIs • WebSockets
 
-**AI / Data**  
-TensorFlow • PyTorch • NLP • LLM Workflows • Vector Databases
+**AI / Data**
+TensorFlow • PyTorch • NLP • LLM Workflows • 
+Microsoft Presidio • Vector Databases
 
-**Automation**  
+**Automation**
 Scrapy • BeautifulSoup • Selenium • Data Pipelines
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently
 
-- Scaling backend and AI automation at **Zaynah AI**
-- Event-driven and distributed system design
-- NLP workflows for low-resource languages
-- Security-aware backend architecture
-
-Open to collaboration on **backend systems, AI automation platforms, NLP pipelines, and open-source tooling**.
+- Growing SovereignGuard open source community
+- Onboarding first Recouvr customers in EMEA
+- Scaling Zaynah AI in production
+- Available for **GDPR + LLM integration consulting**
 
 ---
 
@@ -106,5 +107,5 @@ Arabic (Native – Tunisian Dialect) • French (Fluent) • English (Fluent)
 ---
 
 <p align="center">
-  <strong>Ship systems. Build reliability. Let execution speak.</strong>
+  <strong>Built in Tunisia. For EMEA. Open source.</strong>
 </p>
