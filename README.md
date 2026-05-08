@@ -98,8 +98,8 @@ B2B collections and client relationship automation for EMEA SMEs. GDPR-compliant
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=bahaeddinmselmi&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinmselmi&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" height="150" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=bahaeddinmselmi&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=4" />
 
 </div>
 
