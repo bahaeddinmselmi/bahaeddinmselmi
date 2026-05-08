@@ -2,69 +2,76 @@
 
 # Baha Eddin Mselmi
 
-**Software Engineer &nbsp;·&nbsp; Backend & AI Infrastructure &nbsp;·&nbsp; Tunisia**
+**Co-Founder & CEO @ [Zaynah AI](https://zaynah.app) &nbsp;·&nbsp; Founder @ [Recouvr AI](https://recouvr.dev)**
 
-Co-Founder @ [Zaynah AI](https://zaynah.app) &nbsp;·&nbsp; Founder @ [Recouvr AI](https://recouvr.dev)
+Building AI infrastructure for MENA and EMEA — from Tunisia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/baha-eddin-mselmi)
+&nbsp;
+[![Zaynah AI](https://img.shields.io/badge/zaynah.app-000000?style=flat&logo=vercel&logoColor=white)](https://zaynah.app)
+&nbsp;
+[![Recouvr AI](https://img.shields.io/badge/recouvr.dev-000000?style=flat&logo=vercel&logoColor=white)](https://recouvr.dev)
 
 </div>
 
 ---
 
-I build production AI systems at the intersection of Arabic NLP, WhatsApp automation, and GDPR infrastructure — primarily for MENA and EMEA markets. Based in Tunisia, working on problems that don't have good solutions in English yet.
+Most AI infrastructure assumes English-first markets, Western regulation, and reliable internet. I build for where those assumptions break down — North Africa, the Levant, and EMEA SMEs navigating GDPR without dedicated compliance teams.
+
+Currently scaling [Zaynah AI](https://zaynah.app) across the MENA e-commerce space and building open-source tooling for Tunisian Arabic NLP, a dialect with almost no existing dataset or model coverage.
+
+---
+
+## Ventures
+
+| | | |
+|---|---|---|
+| **[Zaynah AI](https://zaynah.app)** | Co-Founder & CEO | WhatsApp-native e-commerce automation for MENA merchants — in production |
+| **[Recouvr AI](https://recouvr.dev)** | Founder | B2B collections automation for EMEA SMEs — in development |
 
 ---
 
 ## Featured Projects
 
-### [Zaynah AI](https://zaynah.app) &nbsp;·&nbsp; Production
+### [Zaynah AI](https://zaynah.app) &nbsp;·&nbsp; Production &nbsp;·&nbsp; MENA
 
-WhatsApp-native e-commerce automation for MENA merchants. Multi-tenant backend, NLP workflows for Tunisian Derja, real-time order confirmation via WhatsApp. Built for Converty merchants — handles inbound messages, qualifies leads, and confirms orders automatically.
+WhatsApp-native order automation platform for Converty merchants across North Africa and the Levant. Handles inbound messages in Tunisian Derja, qualifies leads, confirms orders, and syncs status back to the merchant dashboard — all without human intervention.
 
-`FastAPI` `PostgreSQL` `Redis` `Next.js 15` `Docker` `Evolution API`
+`FastAPI` `PostgreSQL` `Redis` `Next.js 15` `Docker` `Evolution API` `Groq`
 
 ---
 
-### [SovereignGuard](https://github.com/bahaeddinmselmi/sovereignguard) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/bahaeddinmselmi/sovereignguard?style=flat&color=gray)](https://github.com/bahaeddinmselmi/sovereignguard)
+### [SovereignGuard](https://github.com/bahaeddinmselmi/sovereignguard) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; EMEA &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/bahaeddinmselmi/sovereignguard?style=flat&color=gray)](https://github.com/bahaeddinmselmi/sovereignguard)
 
-GDPR-compliant AI privacy gateway for EMEA. Strips PII before requests leave your infrastructure, restores context locally after the LLM response. Zero data reaches foreign servers. One line to integrate.
+GDPR-compliant AI privacy gateway built for EMEA enterprises adopting LLMs. Strips PII before requests leave your infrastructure, restores context locally after the response. Zero data crosses borders. One line to integrate.
+
+Ships with entity recognizers for Tunisia, Morocco, and France out of the box.
 
 `Python` `FastAPI` `Microsoft Presidio` `Docker` &nbsp;·&nbsp; 79 tests · BSL 1.1
-
-Tunisia · Morocco · France entity recognizers included.
 
 ---
 
 ### [Derja Smart Scraper](https://github.com/bahaeddinmselmi/derja-smart-scraper) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/bahaeddinmselmi/derja-smart-scraper?style=flat&color=gray)](https://github.com/bahaeddinmselmi/derja-smart-scraper)
 
-CLI tool for collecting Tunisian Arabic (Derja) text from the open web. Queries Google via SerpAPI, extracts readable text, and filters sentences using a heuristic Derja detector. Built for constructing training-ready NLP corpora for low-resource dialect modeling.
+CLI tool for building Tunisian Arabic (Derja) NLP corpora from the open web. Queries Google via SerpAPI, extracts readable text, and scores sentences with a heuristic dialect detector. Part of a broader effort to produce training data for a dialect spoken by 12M people with near-zero model coverage.
 
 `Python` `NLP` `SerpAPI` `Data Pipelines`
 
 ---
 
-### [Tunisian Arabic AI Dataset](https://github.com/bahaeddinmselmi/tunisian-arabic-ai-dataset) &nbsp;·&nbsp; Open Source
+### [Tunisian Arabic AI Dataset](https://github.com/bahaeddinmselmi/tunisian-arabic-ai-dataset) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Arabic NLP
 
-The largest open-source dataset for Tunisian Arabic NLP — social media text, transcripts, and e-commerce data for LLM fine-tuning. Part of a broader effort to build Arabic dialect infrastructure that doesn't exist in English-first tooling.
+The largest open-source dataset for Tunisian Arabic NLP. Covers social media text, transcripts, and e-commerce conversations — structured for LLM fine-tuning and dialect classification. Addresses a gap that English-first NLP tooling does not.
 
-`NLP` `Dataset` `Derja` `LLM Training`
+`NLP` `Dataset` `Derja` `LLM Training` `Low-resource Languages`
 
 ---
 
 ### [SiteForge](https://github.com/bahaeddinmselmi/siteforge-chrome-extension) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/bahaeddinmselmi/siteforge-chrome-extension?style=flat&color=gray)](https://github.com/bahaeddinmselmi/siteforge-chrome-extension)
 
-Chrome extension that exports any live website as a ready-to-run project — no AI, no hallucinations. Deterministic, client-side visual layout reconstruction. Exact copy of what you see in the browser.
+Chrome extension that exports any live website as a ready-to-run project — entirely client-side, no AI, no hallucinations. Deterministic visual layout reconstruction. What you see in the browser is exactly what you get.
 
 `JavaScript` `Chrome Extension API`
-
----
-
-### [Recouvr AI](https://recouvr.dev) &nbsp;·&nbsp; In Development
-
-B2B collections and client relationship automation for EMEA SMEs. GDPR-compliant by architecture — built on the same privacy-first infrastructure principles as SovereignGuard.
-
-`Next.js` `Supabase` `Claude API`
 
 ---
 
