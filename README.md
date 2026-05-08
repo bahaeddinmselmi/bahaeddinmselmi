@@ -1,111 +1,109 @@
-![Baha Eddin Mselmi Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A0A0F,50:0A2A1A,100:003820&text=Baha%20Eddin%20Mselmi&fontSize=42&fontAlignY=38&desc=Founder%20%7C%20AI%20Infrastructure%20for%20EMEA&descAlignY=64)
+<div align="center">
 
+# Baha Eddin Mselmi
 
+**Software Engineer &nbsp;·&nbsp; Backend & AI Infrastructure &nbsp;·&nbsp; Tunisia**
 
-<p align="center">
-  <strong>Building AI infrastructure for EMEA data sovereignty.</strong>
-</p>
+Co-Founder @ [Zaynah AI](https://zaynah.app) &nbsp;·&nbsp; Founder @ [Recouvr AI](https://recouvr.dev)
 
-<p align="center">
-  Founder @ <strong>Recouvr AI</strong> • 
-  Co-Founder @ <strong>Zaynah AI</strong> • 
-  Creator of <strong>SovereignGuard</strong> • 
-  Tunisia 🇹🇳
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bahaeddinmselmi)
+[![GitHub followers](https://img.shields.io/github/followers/bahaeddinmselmi?style=flat&color=gray)](https://github.com/bahaeddinmselmi)
+
+</div>
 
 ---
 
-## 🛡️ SovereignGuard — Open Source
-**Python • FastAPI • Microsoft Presidio • Docker**
-
-Open source AI privacy gateway for GDPR-compliant 
-LLM adoption in EMEA.
-
-Strips PII before it leaves your server.
-Restores everything locally after the response.
-Zero data reaches foreign infrastructure.
-One line to integrate.
-
-→ **[github.com/bahaeddinmselmi/sovereignguard](https://github.com/bahaeddinmselmi/sovereignguard)**
-
-Tunisia 🇹🇳 • Morocco 🇲🇦 • France 🇫🇷 recognizers
-79 tests passing • Docker ready • BSL 1.1
+I build production AI systems at the intersection of Arabic NLP, WhatsApp automation, and GDPR infrastructure — primarily for MENA and EMEA markets. Based in Tunisia, working on problems that don't have good solutions in English yet.
 
 ---
 
-## ⚡ Recouvr AI — In Development
-**Next.js • Supabase • Claude API**
+## Featured Projects
 
-B2B collections and client relationship automation
-for EMEA SMEs. GDPR compliant by architecture.
+### [Zaynah AI](https://zaynah.app) &nbsp;·&nbsp; Production
 
-→ **[recouvr.dev](https://recouvr.dev)**
+WhatsApp-native e-commerce automation for MENA merchants. Multi-tenant backend, NLP workflows for Tunisian Derja, real-time order confirmation via WhatsApp. Built for Converty merchants — handles inbound messages, qualifies leads, and confirms orders automatically.
 
----
-
-## 🤖 Zaynah AI — In Production
-**FastAPI • PostgreSQL • Redis • Docker • NLP**
-
-WhatsApp-based e-commerce automation for MENA.
-NLP workflows for Tunisian Darja.
-Multi-tenant architecture built for production scale.
+`FastAPI` `PostgreSQL` `Redis` `Next.js 15` `Docker` `Evolution API`
 
 ---
 
-## 🏗️ Other Projects
+### [SovereignGuard](https://github.com/bahaeddinmselmi/sovereignguard) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/bahaeddinmselmi/sovereignguard?style=flat&color=gray)](https://github.com/bahaeddinmselmi/sovereignguard)
 
-### 🕷️ Product Web Crawler — Maintained
-**Python • Scrapy • MongoDB • Redis**
-Distributed crawling and monitoring infrastructure.
+GDPR-compliant AI privacy gateway for EMEA. Strips PII before requests leave your infrastructure, restores context locally after the LLM response. Zero data reaches foreign servers. One line to integrate.
 
-### 🗣️ Derja Smart Scraper — Research
-**Python • NLP • Data Pipelines**
-Automated Tunisian dialect text collection for 
-training-ready NLP corpora.
+`Python` `FastAPI` `Microsoft Presidio` `Docker` &nbsp;·&nbsp; 79 tests · BSL 1.1
 
-### 🔐 Email Threat Intelligence — Research
-**Python • Machine Learning**
-Threat detection logic for email signals.
-
-### 🤖 IBP-AI — Development
-**FastAPI • LLM Integration**
-AI-driven business process automation.
+Tunisia · Morocco · France entity recognizers included.
 
 ---
 
-## 🛠️ Tech Stack
+### [Derja Smart Scraper](https://github.com/bahaeddinmselmi/derja-smart-scraper) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/bahaeddinmselmi/derja-smart-scraper?style=flat&color=gray)](https://github.com/bahaeddinmselmi/derja-smart-scraper)
 
-**Languages**
-Python • TypeScript • JavaScript • C++
+CLI tool for collecting Tunisian Arabic (Derja) text from the open web. Queries Google via SerpAPI, extracts readable text, and filters sentences using a heuristic Derja detector. Built for constructing training-ready NLP corpora for low-resource dialect modeling.
 
-**Backend & Infrastructure**
-FastAPI • Node.js • PostgreSQL • MongoDB • 
-Redis • Docker • Linux • REST APIs • WebSockets
-
-**AI / Data**
-TensorFlow • PyTorch • NLP • LLM Workflows • 
-Microsoft Presidio • Vector Databases
-
-**Automation**
-Scrapy • BeautifulSoup • Selenium • Data Pipelines
+`Python` `NLP` `SerpAPI` `Data Pipelines`
 
 ---
 
-## 🎯 Currently
+### [Tunisian Arabic AI Dataset](https://github.com/bahaeddinmselmi/tunisian-arabic-ai-dataset) &nbsp;·&nbsp; Open Source
 
-- Growing SovereignGuard open source community
-- Onboarding first Recouvr customers in EMEA
-- Scaling Zaynah AI in production
-- Available for **GDPR + LLM integration consulting**
+The largest open-source dataset for Tunisian Arabic NLP — social media text, transcripts, and e-commerce data for LLM fine-tuning. Part of a broader effort to build Arabic dialect infrastructure that doesn't exist in English-first tooling.
 
----
-
-## 🌍 Languages
-
-Arabic (Native – Tunisian Dialect) • French (Fluent) • English (Fluent)
+`NLP` `Dataset` `Derja` `LLM Training`
 
 ---
 
-<p align="center">
-  <strong>Built in Tunisia. For EMEA. Open source.</strong>
-</p>
+### [SiteForge](https://github.com/bahaeddinmselmi/siteforge-chrome-extension) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/bahaeddinmselmi/siteforge-chrome-extension?style=flat&color=gray)](https://github.com/bahaeddinmselmi/siteforge-chrome-extension)
+
+Chrome extension that exports any live website as a ready-to-run project — no AI, no hallucinations. Deterministic, client-side visual layout reconstruction. Exact copy of what you see in the browser.
+
+`JavaScript` `Chrome Extension API`
+
+---
+
+### [Recouvr AI](https://recouvr.dev) &nbsp;·&nbsp; In Development
+
+B2B collections and client relationship automation for EMEA SMEs. GDPR-compliant by architecture — built on the same privacy-first infrastructure principles as SovereignGuard.
+
+`Next.js` `Supabase` `Claude API`
+
+---
+
+## Stack
+
+**Languages** &nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Backend & Infrastructure** &nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**Frontend** &nbsp;&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**AI / NLP** &nbsp;&nbsp;
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+---
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bahaeddinmselmi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="155" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinmselmi&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="155" />
+
+</div>
+
+---
+
+<sub>Open to collaboration on Arabic NLP, AI infrastructure, and EMEA-focused developer tools. &nbsp;·&nbsp; Built in Tunisia.</sub>
