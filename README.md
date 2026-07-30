@@ -2,13 +2,11 @@
 
 # Baha Eddin Mselmi
 
-**Co-Founder & CEO @ [Zaynah AI](https://zaynah.app) &nbsp;·&nbsp; Founder @ [Recouvr AI](https://recouvr.dev)**
+**Founder @ [Recouvr AI](https://recouvr.dev) &nbsp;·&nbsp; Exited Co-Founder @ [Zaynah AI](https://zaynah.app)**
 
-Building AI infrastructure for MENA and EMEA — from Tunisia.
+Building scalable AI infrastructure and high-leverage SaaS for MENA and EMEA — from Tunisia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/baha-eddin-mselmi)
-&nbsp;
-[![Zaynah AI](https://img.shields.io/badge/zaynah.app-000000?style=flat&logo=vercel&logoColor=white)](https://zaynah.app)
 &nbsp;
 [![Recouvr AI](https://img.shields.io/badge/recouvr.dev-000000?style=flat&logo=vercel&logoColor=white)](https://recouvr.dev)
 
@@ -16,83 +14,76 @@ Building AI infrastructure for MENA and EMEA — from Tunisia.
 
 ---
 
-Most AI infrastructure assumes English-first markets, Western regulation, and reliable internet. I build for where those assumptions break down — North Africa, the Levant, and EMEA SMEs navigating GDPR without dedicated compliance teams.
+Most AI infrastructure assumes English-first markets, Western regulation, and reliable internet. I build for where those assumptions break down — North Africa, the Levant, and EMEA SMEs navigating strict data compliance.
 
-Currently scaling [Zaynah AI](https://zaynah.app) across the MENA e-commerce space and building open-source tooling for Tunisian Arabic NLP, a dialect with almost no existing dataset or model coverage.
+Following the successful exit and acquisition of [Zaynah AI](https://zaynah.app) by Converty, I am currently engineering B2B collections automation at [Recouvr AI](https://recouvr.dev), deploying AI-detection infrastructure via VeriVid, and expanding reservation.tn.
 
 ---
 
-## Ventures
+## Ventures & Infrastructure
 
 | | | |
 |---|---|---|
-| **[Zaynah AI](https://zaynah.app)** | Co-Founder & CEO | WhatsApp-native e-commerce automation for MENA merchants — in production |
-| **[Recouvr AI](https://recouvr.dev)** | Founder | B2B collections automation for EMEA SMEs — in development |
+| **[Recouvr AI](https://recouvr.dev)** | Founder | B2B AI invoice verification and debt recovery SaaS for EMEA SMEs |
+| **VeriVid** | Founder | SaaS platform engineered to detect deepfakes and AI-generated multimedia content |
+| **reservation.tn** | Founder | Digital booking platform for managing and scaling local service reservations |
+| **[Zaynah AI](https://zaynah.app)** | Exited Co-Founder | Acquired by Converty. WhatsApp-native e-commerce automation for MENA |
 
 ---
 
 ## Featured Projects
 
-### [Zaynah AI](https://zaynah.app) &nbsp;·&nbsp; Production &nbsp;·&nbsp; MENA
+### [Recouvr AI](https://recouvr.dev) &nbsp;·&nbsp; In Development &nbsp;·&nbsp; B2B SaaS
+Automated B2B collections and invoice verification platform. Built to eliminate operational bottlenecks in debt recovery for SMEs across EMEA.
+`FastAPI` `Docker` `AI Automation`
 
-WhatsApp-native order automation platform for Converty merchants across North Africa and the Levant. Handles inbound messages in Tunisian Derja, qualifies leads, confirms orders, and syncs status back to the merchant dashboard — all without human intervention.
+---
 
-`FastAPI` `PostgreSQL` `Redis` `Next.js 15` `Docker` `Evolution API` `Groq`
+### [Zaynah AI](https://zaynah.app) &nbsp;·&nbsp; Acquired by Converty
+WhatsApp-native order automation platform built for MENA merchants. Handles inbound messages in Tunisian Derja, qualifies leads, confirms orders, and syncs status back to the merchant dashboard with zero human intervention.
+`FastAPI` `PostgreSQL` `Redis` `Next.js` `Docker` `Groq`
+
+---
+
+### VeriVid &nbsp;·&nbsp; SaaS &nbsp;·&nbsp; Security
+Engineered and deployed a platform designed to systematically detect deepfakes and AI-generated multimedia content, addressing the escalating need for media verification.
+`AI Detection` `Multimedia Processing`
 
 ---
 
 ### [SovereignGuard](https://github.com/bahaeddinmselmi/sovereignguard) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; EMEA &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/bahaeddinmselmi/sovereignguard?style=flat&color=gray)](https://github.com/bahaeddinmselmi/sovereignguard)
-
-GDPR-compliant AI privacy gateway built for EMEA enterprises adopting LLMs. Strips PII before requests leave your infrastructure, restores context locally after the response. Zero data crosses borders. One line to integrate.
-
-Ships with entity recognizers for Tunisia, Morocco, and France out of the box.
-
-`Python` `FastAPI` `Microsoft Presidio` `Docker` &nbsp;·&nbsp; 79 tests · BSL 1.1
+GDPR-compliant AI privacy gateway built for EMEA enterprises adopting LLMs. Strips PII before requests leave your infrastructure, restores context locally after the response. Zero data crosses borders. Ships with entity recognizers for Tunisia, Morocco, and France.
+`Python` `FastAPI` `Microsoft Presidio` `Docker`
 
 ---
 
-### [Derja Smart Scraper](https://github.com/bahaeddinmselmi/derja-smart-scraper) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/bahaeddinmselmi/derja-smart-scraper?style=flat&color=gray)](https://github.com/bahaeddinmselmi/derja-smart-scraper)
-
-CLI tool for building Tunisian Arabic (Derja) NLP corpora from the open web. Queries Google via SerpAPI, extracts readable text, and scores sentences with a heuristic dialect detector. Part of a broader effort to produce training data for a dialect spoken by 12M people with near-zero model coverage.
-
-`Python` `NLP` `SerpAPI` `Data Pipelines`
+### Developer Tooling & CLI
+* **`sharetoai`**: Command-line tool engineered to programmatically manage and push active AI development sessions.
+* **[SiteForge](https://github.com/bahaeddinmselmi/siteforge-chrome-extension)**: Open-source Chrome extension that executes deterministic visual layout reconstruction, exporting any live website as a ready-to-run project entirely client-side.
+* **[Derja Smart Scraper](https://github.com/bahaeddinmselmi/derja-smart-scraper)**: Data pipeline CLI tool for extracting and scoring Tunisian Arabic (Derja) sentences from the open web to build foundational NLP corpora.
 
 ---
 
 ### [Tunisian Arabic AI Dataset](https://github.com/bahaeddinmselmi/tunisian-arabic-ai-dataset) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Arabic NLP
-
-The largest open-source dataset for Tunisian Arabic NLP. Covers social media text, transcripts, and e-commerce conversations — structured for LLM fine-tuning and dialect classification. Addresses a gap that English-first NLP tooling does not.
-
-`NLP` `Dataset` `Derja` `LLM Training` `Low-resource Languages`
-
----
-
-### [SiteForge](https://github.com/bahaeddinmselmi/siteforge-chrome-extension) &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/bahaeddinmselmi/siteforge-chrome-extension?style=flat&color=gray)](https://github.com/bahaeddinmselmi/siteforge-chrome-extension)
-
-Chrome extension that exports any live website as a ready-to-run project — entirely client-side, no AI, no hallucinations. Deterministic visual layout reconstruction. What you see in the browser is exactly what you get.
-
-`JavaScript` `Chrome Extension API`
+The largest open-source dataset for Tunisian Arabic NLP. Covers social media text, transcripts, and e-commerce conversations — structured for LLM fine-tuning and dialect classification for a language spoken by 12M people with near-zero prior model coverage.
+`NLP` `Dataset` `Derja` `LLM Training`
 
 ---
 
 ## Stack
 
-**Languages** &nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
 **Backend & Infrastructure** &nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 **Frontend** &nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **AI / NLP** &nbsp;&nbsp;
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
@@ -100,7 +91,7 @@ Chrome extension that exports any live website as a ready-to-run project — ent
 
 ---
 
-## Stats
+## Execution Metrics
 
 <div align="center">
 
@@ -112,4 +103,4 @@ Chrome extension that exports any live website as a ready-to-run project — ent
 
 ---
 
-<sub>Open to collaboration on Arabic NLP, AI infrastructure, and EMEA-focused developer tools. &nbsp;·&nbsp; Built in Tunisia.</sub>
+<sub>Forging infrastructure. Eliminating friction. &nbsp;·&nbsp; Built in Tunisia.</sub>
