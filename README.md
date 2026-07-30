@@ -107,16 +107,6 @@ The largest open-source dataset for Tunisian Arabic NLP. Covers social media tex
 
 ---
 
-## Execution Metrics
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=bahaeddinmselmi&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=bahaeddinmselmi&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=4" />
-
-</div>
-
----
-
 <sub>Forging infrastructure. Eliminating friction. &nbsp;·&nbsp; Built in Tunisia.</sub>
+</div>
