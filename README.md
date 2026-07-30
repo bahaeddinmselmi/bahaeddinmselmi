@@ -2,13 +2,17 @@
 
 # Baha Eddin Mselmi
 
-**Founder @ [Recouvr AI](https://recouvr.dev) &nbsp;·&nbsp; Exited Co-Founder @ [Zaynah AI](https://zaynah.app)**
+**Founder @ [Recouvr AI](https://recouvr.dev) &nbsp;·&nbsp; Co-Founder @ reservation.tn &nbsp;·&nbsp; Co-Founder @ [ShareToAI](https://sharetoai.app)**
+<br>
+**Exited Co-Founder @ [Zaynah AI](https://zaynah.app)**
 
 Building scalable AI infrastructure and high-leverage SaaS for MENA and EMEA — from Tunisia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/baha-eddin-mselmi)
 &nbsp;
 [![Recouvr AI](https://img.shields.io/badge/recouvr.dev-000000?style=flat&logo=vercel&logoColor=white)](https://recouvr.dev)
+&nbsp;
+[![ShareToAI](https://img.shields.io/badge/sharetoai.app-000000?style=flat&logo=vercel&logoColor=white)](https://sharetoai.app)
 
 </div>
 
@@ -16,7 +20,7 @@ Building scalable AI infrastructure and high-leverage SaaS for MENA and EMEA —
 
 Most AI infrastructure assumes English-first markets, Western regulation, and reliable internet. I build for where those assumptions break down — North Africa, the Levant, and EMEA SMEs navigating strict data compliance.
 
-Following the successful exit and acquisition of [Zaynah AI](https://zaynah.app) by Converty, I am currently engineering B2B collections automation at [Recouvr AI](https://recouvr.dev), deploying AI-detection infrastructure via VeriVid, and expanding reservation.tn.
+Following the successful exit and acquisition of [Zaynah AI](https://zaynah.app) by Converty, I am currently engineering B2B collections automation at [Recouvr AI](https://recouvr.dev), driving local market lead generation via reservation.tn, and deploying seamless AI integrations at [ShareToAI](https://sharetoai.app).
 
 ---
 
@@ -25,8 +29,9 @@ Following the successful exit and acquisition of [Zaynah AI](https://zaynah.app)
 | | | |
 |---|---|---|
 | **[Recouvr AI](https://recouvr.dev)** | Founder | B2B AI invoice verification and debt recovery SaaS for EMEA SMEs |
+| **reservation.tn** | Co-Founder | Digital booking and lead-generation platform scaling in the Tunisian market |
+| **[ShareToAI](https://sharetoai.app)** | Co-Founder | AI tool engineered to programmatically manage and push active development sessions |
 | **VeriVid** | Founder | SaaS platform engineered to detect deepfakes and AI-generated multimedia content |
-| **reservation.tn** | Founder | Digital booking platform for managing and scaling local service reservations |
 | **[Zaynah AI](https://zaynah.app)** | Exited Co-Founder | Acquired by Converty. WhatsApp-native e-commerce automation for MENA |
 
 ---
@@ -36,6 +41,18 @@ Following the successful exit and acquisition of [Zaynah AI](https://zaynah.app)
 ### [Recouvr AI](https://recouvr.dev) &nbsp;·&nbsp; In Development &nbsp;·&nbsp; B2B SaaS
 Automated B2B collections and invoice verification platform. Built to eliminate operational bottlenecks in debt recovery for SMEs across EMEA.
 `FastAPI` `Docker` `AI Automation`
+
+---
+
+### [ShareToAI](https://sharetoai.app) &nbsp;·&nbsp; Application
+Tool designed to manage, bridge context, and push active AI development sessions to production workflows instantly. 
+`AI Integration` `Workflow Automation`
+
+---
+
+### reservation.tn &nbsp;·&nbsp; Platform
+Local market booking and lead-generation engine designed to aggregate demand and route high-intent leads efficiently. 
+`Lead Generation` `Web Platform`
 
 ---
 
@@ -58,7 +75,6 @@ GDPR-compliant AI privacy gateway built for EMEA enterprises adopting LLMs. Stri
 ---
 
 ### Developer Tooling & CLI
-* **`sharetoai`**: Command-line tool engineered to programmatically manage and push active AI development sessions.
 * **[SiteForge](https://github.com/bahaeddinmselmi/siteforge-chrome-extension)**: Open-source Chrome extension that executes deterministic visual layout reconstruction, exporting any live website as a ready-to-run project entirely client-side.
 * **[Derja Smart Scraper](https://github.com/bahaeddinmselmi/derja-smart-scraper)**: Data pipeline CLI tool for extracting and scoring Tunisian Arabic (Derja) sentences from the open web to build foundational NLP corpora.
 
