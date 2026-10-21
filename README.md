@@ -29,7 +29,7 @@ Following the successful exit and acquisition of [Zaynah AI](https://zaynah.app)
 | | | |
 |---|---|---|
 | **[Recouvr AI](https://recouvr.dev)** | Founder | B2B AI invoice verification and debt recovery SaaS for EMEA SMEs |
-| ** [Reservations.tn](https://reservations.tn)** | Co-Founder | Digital booking and lead-generation platform scaling in the Tunisian market |
+| **[Reservations.tn](https://reservations.tn)** | Co-Founder | Digital booking and lead-generation platform scaling in the Tunisian market |
 | **[ShareToAI](https://sharetoai.app)** | Co-Founder | AI tool engineered to programmatically manage and push active development sessions |
 | **VeriVid** | Founder | SaaS platform engineered to detect deepfakes and AI-generated multimedia content |
 | **[Zaynah AI](https://zaynah.app)** | Exited Co-Founder | Acquired by Converty. WhatsApp-native e-commerce automation for MENA |
